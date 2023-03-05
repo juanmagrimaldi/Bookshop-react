@@ -1,0 +1,28 @@
+.banner {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-image: url("https://media.istockphoto.com/id/185215276/es/foto/libros-antiguos-en-la-biblioteca.jpg?s=612x612&w=0&k=20&c=QJQT-EOjNzA0nujxCt4d8gniLOA3nX_BU65gBbNpq_E=");
+}
+
+.banner-container {
+    text-align: center;
+    padding: 15% 0;
+}
+
+.banner h1 {
+    margin: 0;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    font-size: 62px;
+    font-weight: bold;
+}
+
+.banner p {
+    font-size: 30px;
+    color: white;
+    opacity: 0.7;
+    text-shadow: rgba(0, 0, 0, 0.2);
+
+}
+

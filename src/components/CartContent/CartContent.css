@@ -1,0 +1,41 @@
+.cartContent {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 30px;
+}
+
+.cartContent > img {
+    height: 120px;
+    width: 100px;
+    text-align: center;
+}
+
+.cartTotal {
+    text-align: center;
+}
+
+.cart-message-center {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.counter-button {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.cart-delete-button {
+    cursor: pointer;
+}
+
+.cart-items-total {
+    background-color: rgb(75, 44, 153);
+    color: white;
+    border-radius: 50%;
+    font-size: 1rem;
+    padding: 4px;
+    top: 37px;
+    right: 14px;
+    position: absolute;
+}
